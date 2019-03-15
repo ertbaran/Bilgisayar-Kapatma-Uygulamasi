@@ -5,4 +5,4 @@ Bilgisayarı Kapatma Uygulaması (Zamanlayıcı) - Belirtilen süre sonunda bilg
 <br><br>
 Uygulama'nın görüntüsü:
 <br>
-https://ibb.co/DgDHfpc
+https://www.photobox.co.uk/my/photo/full?photo_id=501728423115
