@@ -4,5 +4,5 @@ Bilgisayarı Kapatma Uygulaması (Zamanlayıcı) - Belirtilen süre sonunda bilg
 (Açıklama satırlarıyla birlikte)
 <br>
 Uygulama'nın görüntüsü:
-<br>
+<br><br>
 https://ibb.co/DgDHfpc
