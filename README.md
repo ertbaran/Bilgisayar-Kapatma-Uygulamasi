@@ -3,6 +3,6 @@ Bilgisayarı Kapatma Uygulaması (Zamanlayıcı) - Belirtilen süre sonunda bilg
 <br>
 (Açıklama satırlarıyla birlikte)
 <br><br>
-Uygulama'nın görüntüsü:
+Uygulama'nın Windows Store Sayfası:
 <br>
-https://store-images.s-microsoft.com/image/apps.33424.14370079726635554.072b2f42-35d9-4fde-b3bb-d2c8248349d1.b8827559-6666-48e8-81c8-7926e8bde901?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg
+https://www.microsoft.com/store/productId/9NS4TLM4R8DP
