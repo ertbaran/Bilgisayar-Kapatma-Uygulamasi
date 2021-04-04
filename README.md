@@ -1,7 +1,5 @@
-# Bilgisayar-Kapatma-Uygulamasi
-Bilgisayarı Kapatma Uygulaması (Zamanlayıcı) - Belirtilen süre sonunda bilgisayarı otomatik olarak kapatır. 
-<br>
-(Açıklama satırlarıyla birlikte)
+# The Shutdown Timer
+A Shutdown app for your pc. - Set timer and let pc shutdown itself.
 <br><br>
 Uygulama'nın Windows Store Sayfası:
 <br>
