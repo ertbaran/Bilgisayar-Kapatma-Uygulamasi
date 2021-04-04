@@ -1,5 +1,5 @@
 # The Shutdown Timer
-A Shutdown app for your pc. - Set timer and let pc shutdown itself.
+A Shutdown app for your pc. Set timer and let pc shutdown itself.
 <br><br>
 Windows Store Page:
 <br>
