@@ -1,11 +1,14 @@
 # The Shutdown Timer
+
 ### A Shutdown app for your pc. Set timer and let pc shutdown itself.
 
-![image](https://user-images.githubusercontent.com/35369764/117555006-1cb87180-b064-11eb-942f-b04d12a6392c.png)
 
-![image](https://user-images.githubusercontent.com/35369764/117555009-2510ac80-b064-11eb-914e-82d6a9a4f363.png)
+![image](https://user-images.githubusercontent.com/35369764/117555037-6dc86580-b064-11eb-8acd-52bfd69c02d2.png)
 
-![image](https://user-images.githubusercontent.com/35369764/117555011-293cca00-b064-11eb-98e1-edc0a78961a5.png)
+![image](https://user-images.githubusercontent.com/35369764/117555055-8b95ca80-b064-11eb-95df-b8a301446479.png)
+
+![image](https://user-images.githubusercontent.com/35369764/117555049-7caf1800-b064-11eb-9a04-4f846dde3d19.png)
+
 
 
 Windows Store Page:
